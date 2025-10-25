@@ -1,9 +1,11 @@
 # Конвертер валют
 
+### Выполнил
+Иванов Артем 6233-010402D
 
 - Три вида валют: доллары (USD), евро (EUR), рубли (RUB)
 - Автоматическая конвертация при вводе в поле
-- Используемое API `https://v6.exchangerate-api.com/v6/`{api_key}`/latest/USD`
+- Используемое [API](https://exchangerate-api.com/) `https://v6.exchangerate-api.com/v6/`{api_key}`/latest/USD`
 
 
 ## Скриншоты работы программы
