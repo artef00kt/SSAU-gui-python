@@ -9,10 +9,10 @@
 ## Скриншоты работы программы
 
 1. **Скриншот 1**  
-   ![скриншот 1](screenshots/1.PNG)
+   ![скриншот 1](screenshots/1.png)
 
 3. **Скриншот 2**  
-   ![скриншот 2](screenshots/2.PNG)
+   ![скриншот 2](screenshots/2.png)
 
 3. **Скриншот 3**  
-   ![скриншот 3](screenshots/3.PNG)
+   ![скриншот 3](screenshots/3.png)
